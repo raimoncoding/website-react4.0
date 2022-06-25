@@ -456,6 +456,7 @@ a {
     max-width: 100%;
     max-height: auto;
     margin-bottom: 30px;
+    object-position: center;
 }
 
 .company2 {
@@ -467,6 +468,7 @@ a {
     max-width: 100%;
     max-height: auto;
     margin-bottom: 30px;
+    object-position: center;
 }
 
 .website {
@@ -475,8 +477,10 @@ a {
   border-radius: 5%;
   box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
   object-fit: cover;
+  max-width: 100%;
   max-height: auto;
   margin-bottom: 30px;
+  object-position: center;
 }
 
 .printer {
