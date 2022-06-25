@@ -367,6 +367,10 @@ a {
    margin-top: 10px;
 }
 
+.body2 {
+  max-width: 100;
+}
+
 /* NavBar */
 
 .navbar-brand {
@@ -377,7 +381,8 @@ a {
 
 .nav-item {
   padding: 0 18px;
-  margin: 2% 1% 7%;
+  margin: 2% 2% 2%;
+  max-width: 100%;
 }
 
 .nav-link {
