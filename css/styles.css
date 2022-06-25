@@ -33,6 +33,7 @@ scroll-behavior: smooth;
 .body2 {
   background: #FFF;
   width: 100%;
+  margin-left: 15px;
 }
 .logo2 {
   height: 170px;
@@ -67,7 +68,7 @@ scroll-behavior: smooth;
 }
 .c4 {
     background-color: #ffffff;
-    max-width: 451.4pt;
+    max-width: 100%;
     padding: 72pt 72pt 72pt 72pt;
 }
 
