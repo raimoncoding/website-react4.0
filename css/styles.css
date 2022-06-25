@@ -531,7 +531,6 @@ a {
 
 } */
 .container-fluid {
-    padding: 50px;
     max-width: 100%;
     height: 100px;
     background: linear-gradient(to bottom right, #FFF7BC, #F9F9F9);
