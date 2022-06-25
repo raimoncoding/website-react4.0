@@ -32,6 +32,8 @@ scroll-behavior: smooth;
 
 .body2 {
   background: #FFF;
+  width: 100%;
+  margin-top: auto;
 }
 
 .logo2 {
