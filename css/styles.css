@@ -375,7 +375,6 @@ a {
   padding: 0 18px;
   text-align: right;
   margin: 2% 1% 7%;
-  max-width: 100%;
 }
 
 .nav-link {
@@ -384,6 +383,7 @@ a {
   text-decoration: none;
   margin: 10px 10px;
   text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
+  max-width: 100%;
 }
 
 .nav-link:hover, .nav-link:focus {
