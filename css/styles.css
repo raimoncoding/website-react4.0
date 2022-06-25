@@ -69,7 +69,6 @@ scroll-behavior: smooth;
 
 .c4 {
     background-color: #ffffff;
-    max-width: 100%;
     padding: 72pt 72pt 72pt 72pt;
     max-width: 600pt;
 }
@@ -598,7 +597,16 @@ a {
     font-family: 'Josefin Slab', serif;
     margin-bottom: 10px;
 
-}  */
+}
+
+.footer-link2 {
+    color: #40514E;
+    margin: 10px 20px;
+    text-decoration: none;
+    font-family: 'Josefin Slab', serif;
+    margin-bottom: 10px;
+
+}
 
   /* Buttons */
 
