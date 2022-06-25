@@ -100,8 +100,7 @@ p {
   width: 200px;
   border-radius: 5%;
   box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
-  margin-left: 30px;
-  margin-bottom: 30px;
+  margin-bottom: 50px;
   float: left;
   object-fit: cover;
   max-width: 100%;
