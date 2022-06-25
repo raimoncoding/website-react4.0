@@ -375,6 +375,7 @@ a {
   padding: 0 18px;
   text-align: right;
   margin: 2% 1% 7%;
+  max-width: 100%;
 }
 
 .nav-link {
