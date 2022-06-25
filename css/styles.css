@@ -600,7 +600,9 @@ a {
 }
 
 .footer-link2 {
-    word-wrap: break-word
+    line-height: 1.5em;
+    height: 3em;   
+    overflow: hidden;
     color: #40514E;
     margin: 10px 20px;
     text-decoration: none;
