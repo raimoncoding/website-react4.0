@@ -429,7 +429,6 @@ a {
 .middle-container {
     max-width: 100%;
     margin: 30px 30px 30px 30px;
-    object-position: center;
 }
 
 .middle-container2 {
@@ -454,6 +453,8 @@ a {
     border-radius: 5%;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
     object-fit: cover;
+    max-width: 100%;
+    max-height: auto;
     margin-bottom: 30px;
 }
 
@@ -463,6 +464,8 @@ a {
     border-radius: 5%;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
     object-fit: cover;
+    max-width: 100%;
+    max-height: auto;
     margin-bottom: 30px;
 }
 
