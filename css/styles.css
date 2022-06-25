@@ -82,12 +82,14 @@ h1 {
   font-family: 'Josefin Slab', serif;
   text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
   margin-left: 10px;
+  margin-right: 10px;
 }
 
 p {
   font-family: 'Quicksand', sans-serif;
   color: #000000;
   margin-left: 10px;
+  margin-right: 10px;
 }
 
 .logo {
@@ -516,7 +518,7 @@ a {
 .footer-link {
   max-width: 100%;
   color: #40514E;
-  margin: 4px 4px;
+  margin: auto;
   text-decoration: none;
   font-family: 'Josefin Slab', serif;
 }
