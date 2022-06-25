@@ -30,6 +30,47 @@ scroll-behavior: smooth;
        url('../fonts/quicksand-v29-latin-regular.svg#Quicksand') format('svg'); /* Legacy iOS */
 }
 
+.body2 {
+  background: #FFF;
+  width: 100%;
+}
+.logo2 {
+  height: 170px;
+  width: 160px;
+  border-radius: 5%;
+  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
+  margin-bottom: 50px;
+  object-fit: cover;
+}
+.c0 {
+    color: #000000;
+    font-weight: 400;
+    text-decoration: none;
+    vertical-align: baseline;
+    font-size: 11pt;
+    font-family: "Arial";
+    font-style: normal;
+}
+.c1 {
+    padding-top: 0pt;
+    padding-bottom: 0pt;
+    line-height: 1.15;
+    /* orphans: 2;
+    widows: 2; */
+    text-align: left;
+}
+.c3 {
+    text-decoration-skip-ink: none;
+    -webkit-text-decoration-skip: none;
+    color: #1155cc;
+    text-decoration: underline;
+}
+.c4 {
+    background-color: #ffffff;
+    max-width: 451.4pt;
+    padding: 72pt 72pt 72pt 72pt;
+}
+
 body {
   background: linear-gradient(to bottom right, #FFF7BC, #F9F9F9);
   font-weight: bold;
@@ -37,21 +78,14 @@ body {
   width: 100%;
 }
 
-.body2 {
-  background: #ffffff;
-  margin-top: 30px;
-}
-
 h1 {
   font-family: 'Josefin Slab', serif;
   text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
-  margin-left: 10px;
 }
 
 p {
   font-family: 'Quicksand', sans-serif;
   color: #000000;
-  margin-left: 10px;
 }
 
 .logo {
@@ -62,6 +96,8 @@ p {
   margin-left: 30px;
   float: left;
   object-fit: cover;
+  max-width: 100%;
+  max-height: auto;
 }
 
 /* Navigation Bar */
@@ -79,7 +115,7 @@ p {
 .nav-item {
   padding: 0 18px;
   text-align: right;
-  margin: 2% 1% 7%;
+  margin: 5% 5% 5%;
 }
 
 .nav-link {
@@ -100,8 +136,6 @@ p {
   width: 80%;
   margin: 200px auto 200px auto;
   text-align: left;
-  /* max-width: 500px;
-  margin: auto; */
 }
 
 /* Middle-Sections */
@@ -110,16 +144,12 @@ p {
   width: 80%;
   margin: 200px auto 200px auto;
   text-align: left;
-  /* max-width: 500px;
-  margin: auto;*/
 }
 
 .middle-container2 {
   width: 80%;
   margin: 200px auto 200px auto;
   text-align: left;
-  /* max-width: 500px;
-  margin: auto; */
 }
 
 /* Images */
@@ -133,21 +163,8 @@ p {
   box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
   margin-right: 30px;
   object-fit: cover;
-  /* max-width: 500px;
-  margin: auto; */
-}
-
-.company2 {
-  float: right;
-  height: 250px;
-  width: 400px;
-  border-radius: 5%;
-  text-align: right;
-  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
-  margin-right: 30px;
-  object-fit: cover;
-  /* max-width: 500px;
-  margin: auto; */
+  max-width: 100%;
+  max-height: auto;
 }
 
 .code {
@@ -164,6 +181,19 @@ p {
     margin-bottom: 20px;
   }
 
+.company2 {
+  float: right;
+  height: 250px;
+  width: 400px;
+  border-radius: 5%;
+  text-align: right;
+  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
+  margin-right: 30px;
+  object-fit: cover;
+  max-width: 100%;
+  max-height: auto;
+}
+
 .website {
   float: right;
   height: 400px;
@@ -174,8 +204,8 @@ p {
   margin-left: 30px;
   margin-bottom: 50px;
   object-fit: cover;
-  /* max-width: 500px;
-  margin: auto; */
+  max-width: 100%;
+  max-height: auto;
 }
 
 .printer {
@@ -188,8 +218,8 @@ p {
   margin-left: 30px;
   margin-bottom: 50px;
   object-fit: cover;
-  /* max-width: 500px;
-  margin: auto; */
+  max-width: 100%;
+  max-height: auto;
 }
 
 .raimon {
@@ -202,8 +232,8 @@ p {
   margin-left: 30px;
   margin-bottom: 50px;
   object-fit: cover;
-  /* max-width: 500px;
-  margin: auto; */
+  max-width: 100%;
+  max-height: auto;
 }
 
 .contact {
@@ -216,8 +246,8 @@ p {
   margin-left: 30px;
   margin-bottom: 50px;
   object-fit: cover;
-  /* max-width: 500px;
-  margin: auto; */
+  max-width: 100%;
+  max-height: auto;
 }
 
 /* Spacing */
@@ -356,23 +386,25 @@ a {
   /* Heading */
 
 .header {
-      max-width: 100%;
-      margin: 30px 30px 30px 30px;
-      object-position: center;
+    max-width: 100%;
+    margin: 30px 30px 30px 30px;
+    object-position: center;
 }
+
+
+
 
   /* Middle-Sections */
 
 .middle-container {
-      max-width: 100%;
-      margin: 30px 30px 30px 30px;
-      object-position: center;
-  }
+    max-width: 100%;
+    margin: 30px 30px 30px 30px;
+    object-position: center;
+}
 
 .middle-container2 {
     max-width: 100%;
     margin: 30px 30px 30px 30px;
-
 }
 
   /* Images */
@@ -387,34 +419,33 @@ a {
 }
 
 .company {
-    height: 200px;
-    width: 300px;
+    height: 250px;
+    width: 400px;
     border-radius: 5%;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
     object-fit: cover;
     max-height: auto;
     margin-bottom: 30px;
-    width: 100%;
 }
 
 .company2 {
-    height: 200px;
-    width: 300px;
+    height: 250px;
+    width: 400px;
     border-radius: 5%;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
     object-fit: cover;
     max-height: auto;
     margin-bottom: 30px;
-    width: 100%;
 }
 
 .website {
-    height: 200px;
-    width: 300px;
-    border-radius: 5%;
-    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
-    margin-bottom: 50px;
-    object-fit: cover;
+  height: 200px;
+  width: 300px;
+  border-radius: 5%;
+  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
+  object-fit: cover;
+  max-height: auto;
+  margin-bottom: 30px;
 }
 
 .printer {
@@ -422,8 +453,9 @@ a {
     width: 300px;
     border-radius: 5%;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
-    margin-bottom: 50px;
     object-fit: cover;
+    max-height: auto;
+    margin-bottom: 30px;
 }
 
 .raimon {
