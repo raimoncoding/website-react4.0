@@ -275,9 +275,9 @@ p {
   background: linear-gradient(to bottom right, #FFF7BC, #F9F9F9);
 }
 
-.social-icon:hover {
+/* .social-icon:hover {
   color: #92B4EC;
-}
+} */
 
 .footer-link {
   color: #40514E;
@@ -525,8 +525,8 @@ a {
 }
 
 .footer-link {
-  max-width: 100%;
   color: #40514E;
+  margin: 10px 20px;
   text-decoration: none;
   font-family: 'Josefin Slab', serif;
 }
