@@ -600,12 +600,12 @@ a {
 }
 
 .footer-link2 {
+    white-space: pre;
     color: #40514E;
     margin: 10px 20px;
     text-decoration: none;
     font-family: 'Josefin Slab', serif;
     margin-bottom: 10px;
-
 }
 
   /* Buttons */
