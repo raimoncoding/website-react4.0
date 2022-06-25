@@ -449,7 +449,7 @@ a {
 
 .company {
     height: 250px;
-    width: 400px;
+    width: 350px;
     border-radius: 5%;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
     object-fit: cover;
@@ -461,7 +461,7 @@ a {
 
 .company2 {
     height: 250px;
-    width: 400px;
+    width: 350px;
     border-radius: 5%;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
     object-fit: cover;
@@ -473,7 +473,7 @@ a {
 
 .website {
   height: 200px;
-  width: 300px;
+  width: 350px;
   border-radius: 5%;
   box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
   object-fit: cover;
