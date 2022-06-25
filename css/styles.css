@@ -417,8 +417,9 @@ a {
   /* Heading */
 
 .header {
-    width: 100%;
+    max-width: 100%;
     margin: 10px 10px 10px 10px;
+    object-position: center;
 }
 
 
