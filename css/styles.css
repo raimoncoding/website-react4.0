@@ -427,12 +427,12 @@ a {
   /* Middle-Sections */
 
 .middle-container {
-    max-width: 100%;
+    width: 100%;
     margin: 30px 30px 30px 30px;
 }
 
 .middle-container2 {
-    max-width: 100%;
+    width: 100%;
     margin: 30px 30px 30px 30px;
 }
 
