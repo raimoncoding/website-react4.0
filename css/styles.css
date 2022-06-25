@@ -510,6 +510,7 @@ a {
 } */
 
 .container-fluid {
+  max-width: 100%;
   padding: 50px;
   text-align: center;
   background: linear-gradient(to bottom right, #FFF7BC, #F9F9F9);
@@ -517,7 +518,7 @@ a {
 
 .footer-link {
   color: #40514E;
-  margin: 10px 20px;
+  margin: 4px 4px;
   text-decoration: none;
   font-family: 'Josefin Slab', serif;
 }
