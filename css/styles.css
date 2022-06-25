@@ -74,6 +74,14 @@ scroll-behavior: smooth;
     max-width: 600pt;
 }
 
+.c5 {
+    color: #000000;
+    text-decoration: inherit;
+}
+.c5:hover {
+    color: #92B4EC;
+}
+
 body {
   background: linear-gradient(to bottom right, #FFF7BC, #F9F9F9);
   font-weight: bold;
@@ -402,6 +410,10 @@ a {
 
 .nav-link:hover, .nav-link:focus {
   color: #92B4EC;
+}
+
+.spacing3 {
+  height: 25px;
 }
 
   /* Heading */
