@@ -67,7 +67,7 @@ scroll-behavior: smooth;
 
 .c4 {
     background-color: #ffffff;
-    max-width: 80%;
+    max-width: 100%;
     padding: 72pt 72pt 72pt 72pt;
 }
 
@@ -510,13 +510,13 @@ a {
 } */
 
 .container-fluid {
-  max-width: 80%;
+  max-width: 100%;
   text-align: center;
   background: linear-gradient(to bottom right, #FFF7BC, #F9F9F9);
 }
 
 .footer-link {
-  max-width: 80%;
+  max-width: 100%;
   color: #40514E;
   margin: auto;
   text-decoration: none;
