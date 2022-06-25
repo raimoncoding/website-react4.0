@@ -454,7 +454,6 @@ a {
     border-radius: 5%;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
     object-fit: cover;
-    max-height: auto;
     margin-bottom: 30px;
 }
 
@@ -464,7 +463,6 @@ a {
     border-radius: 5%;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
     object-fit: cover;
-    max-height: auto;
     margin-bottom: 30px;
 }
 
@@ -601,7 +599,7 @@ a {
 
 .footer-link2 {
     line-height: 1.5em;
-    height: 3em;   
+    height: 3em;
     overflow: hidden;
     color: #40514E;
     margin: 10px 20px;
