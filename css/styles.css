@@ -109,15 +109,7 @@ p {
 
 /* Navigation Bar */
 
-/* .navbar {
-  padding: 0 0 4.5rem;
-}
 
-.navbar-brand {
-  font-family: 'Josefin Slab', serif;
-  font-size: 2.5rem;
-  font-weight: bold;
-} */
 
 .nav-item {
   padding: 0 18px;
@@ -277,7 +269,8 @@ p {
 /* Footer */
 
 .container-fluid {
-  padding: 50px;
+  max-width: 100%;
+  max-height: auto;
   text-align: center;
   background: linear-gradient(to bottom right, #FFF7BC, #F9F9F9);
 }
@@ -393,6 +386,7 @@ a {
   padding: 0 18px;
   margin: 2% 2% 2%;
   max-width: 100%;
+  max-height: auto;
 }
 
 .nav-link {
