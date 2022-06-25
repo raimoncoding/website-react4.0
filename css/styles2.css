@@ -1,4 +1,4 @@
-ol {
+/* ol {
     margin: 0;
     padding: 0;
 }
@@ -9,7 +9,7 @@ table th {
 /* body {
   background: #FFF;
 } */
-.logo2 {
+/* .logo2 {
   height: 170px;
   width: 160px;
   border-radius: 5%;
@@ -83,7 +83,7 @@ li {
     color: #000000;
     font-size: 11pt;
     font-family: "Arial";
-}
+} */
 /* p {
     margin: 0;
     color: #000000;
@@ -165,7 +165,7 @@ h6 {
 } */
 
 /* Footer */
-
+/*
 .container-fluid {
   padding: 50px;
   text-align: center;
@@ -185,4 +185,4 @@ h6 {
 
 .footer-link:hover, .footer-link:focus {
   color: #92B4EC;
-}
+}  */
