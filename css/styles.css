@@ -417,6 +417,12 @@ a {
   /* Heading */
 
 .header {
+    max-width: 100%;
+    margin: 10px 10px 10px 10px;
+    object-position: center;
+}
+
+.header2 {
     width: 100%;
     margin: 10px 10px 10px 10px;
     object-position: center;
