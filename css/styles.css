@@ -387,6 +387,7 @@ a {
   margin: 2% 2% 2%;
   max-width: 100%;
   max-height: auto;
+  margin-right: 20px;
 }
 
 .nav-link {
