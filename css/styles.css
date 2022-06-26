@@ -455,7 +455,7 @@ a {
 }
 
 .company {
-    float: left;
+    float: right;
     height: 250px;
     width: 350px;
     border-radius: 5%;
@@ -468,7 +468,7 @@ a {
 }
 
 .company2 {
-    float: left;
+    float: right;
     height: 250px;
     width: 350px;
     border-radius: 5%;
@@ -481,7 +481,7 @@ a {
 }
 
 .website {
-  float: left;
+  float: right;
   height: 200px;
   width: 350px;
   border-radius: 5%;
@@ -494,7 +494,7 @@ a {
 }
 
 .printer {
-    float: left;
+    float: right;
     height: 400px;
     width: 300px;
     border-radius: 5%;
@@ -514,7 +514,7 @@ a {
 }
 
 .contact {
-    float: left;
+    float: right;
     height: 300px;
     width: 200px;
     border-radius: 5%;
