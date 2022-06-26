@@ -480,6 +480,18 @@ a {
     object-position: center;
 }
 
+.code {
+    float: right;
+    height: 350px;
+    width: 400px;
+    border-radius: 5%;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
+    object-fit: cover;
+    max-width: 100%;
+    max-height: auto;
+    margin-bottom: 30px;
+  }
+
 .website {
   float: right;
   height: 200px;
@@ -490,13 +502,12 @@ a {
   max-width: 100%;
   max-height: auto;
   margin-bottom: 30px;
-  object-position: center;
 }
 
 .printer {
     float: right;
-    height: 400px;
-    width: 300px;
+    height: 350px;
+    width: 350px;
     border-radius: 5%;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
     object-fit: cover;
