@@ -10,11 +10,15 @@ function Home() {
       <div className="header">
           <img className="website"src={developer} alt="phone, Imac pc and tablet to represent responsive design"></img>
         <article>
-          <div>
+        <div>
         <h1>Responsive design, HTML, CSS, JavaScript</h1>
-        <p>Freelance web designer and developer based in West Friesland, Netherlands.
-          Most eligible and skilled in creating custom websites.</p>
-      </div>
+            <p>Freelance web designer and developer based in West-Friesland, The Netherlands.
+               Most capable and skilled at creating custom websites.</p>
+            <p>How does a responsive website work?</p>
+            <p>Simply put, responsive websites adapt to the screen with which a visitor views the website.
+            Whether this is a desktop monitor, a tablet, or a smartphone. There is only one website,
+            the layout of which adapts to the resolution of the screen.</p>
+            </div>
         </article>
         </div>
   <div className="spacing">
